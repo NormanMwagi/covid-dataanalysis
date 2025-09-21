@@ -1,0 +1,7 @@
+pandas>=1.5
+matplotlib
+seaborn
+streamlit
+wordcloud
+nltk
+tqdm
