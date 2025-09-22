@@ -1,0 +1,11 @@
+# Ignore dataset (large CSVs)
+dataset/
+*.csv
+
+# Ignore virtual environment
+venv/
+
+# Ignore common junk files
+__pycache__/
+*.pyc
+.DS_Store
